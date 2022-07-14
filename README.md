@@ -24,11 +24,15 @@ Their was no significant changes to the grades of the other students as only the
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
  
 ### Scores by school size
- 
+ ![School_Size](https://user-images.githubusercontent.com/103524591/178884643-0a055cc0-efb8-4d5f-87ff-203d386ef469.png)
+![School_size_Thomas](https://user-images.githubusercontent.com/103524591/178884651-24f6223c-4413-4518-8345-c94b639234d2.png)
+
 As you can see from the image the overall passing percentage did not change.
  
 ### Scores by school type
- 
+ ![overall_charter](https://user-images.githubusercontent.com/103524591/178884664-d48c82a4-f5b8-498c-a255-2107c9c8fcc8.png)
+![overall_charter_better](https://user-images.githubusercontent.com/103524591/178884680-2000cc5a-9fc5-42f6-baac-3d275c5fa407.png)
+
 The School by School type percentage did slightly improve but not by a large enough value
  
 ## Conclusion
